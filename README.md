@@ -62,19 +62,6 @@ I'm a problem-driven engineer who likes owning things end-to-end. Hand me someth
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6F00?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-8A2BE2?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-### 🔭 Now playing
-
-```text
-$ cat now.txt
-▸ Reading   → GGUF internals, attention kernels, the CUDA programming guide
-▸ Building  → A min-heap in C++ I keep "just one more optimization"-ing
-▸ Designing → Distributed systems that survive 10M users (on paper, at least)
-▸ Wondering → Why SIMD always feels one compiler flag away from working
-```
-
 ---
 
 ### 📊 The receipts
