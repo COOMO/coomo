@@ -1,11 +1,3 @@
-<!--
-  放到 <YOUR_USERNAME>/<YOUR_USERNAME> 這個 repo 根目錄，檔名 README.md。
-  下面已經幫你填好 email / LinkedIn，確認無誤即可推上去。
-  剩下要改的：
-    1. YOUR_USERNAME → 你的 GitHub 帳號（stats 卡片會用到）
-    2. 如果不想公開 email / 學歷，刪掉對應那行即可
--->
-
 <h3 align="center">Hi, I'm Tom 👋</h3>
 <p align="center">Senior Software Engineer · Taipei 🇹🇼</sub></p>
 <p align="center"><i>10+ years chasing problems down the stack — Qt → LabVIEW → embedded Linux → Azure IoT.</i></p>
@@ -74,7 +66,3 @@ I'm a problem-driven engineer who likes owning things end-to-end. Hand me someth
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coomo&hide_border=true" alt="streak" />
 </p>
-
----
-
-<p align="center"><sub><i>「邊做邊學，邊學邊做」— this page updates when something actually interesting happens.</i></sub></p>
