@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Tom 👋</h3>
-<p align="center">Senior Software Engineer · Taipei 🇹🇼</sub></p>
+<p align="center">Senior Software Engineer · Taipei 🇹🇼</p>
 <p align="center"><i>10+ years chasing problems down the stack — Qt → LabVIEW → embedded Linux → Azure IoT.</i></p>
 
 ---
@@ -45,23 +45,19 @@ I'm a problem-driven engineer who likes owning things end-to-end. Hand me someth
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **Test & Measurement**  
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD200?style=flat-square&logoColor=black)
-![NI PXI](https://img.shields.io/badge/NI_PXI-000000?style=flat-square)
-![CLD Certified](https://img.shields.io/badge/Certified_LabVIEW_Developer-FFD200?style=flat-square&logoColor=black)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD200?style=flat-square&logo=labview&logoColor=black)
+![NI PXI](https://img.shields.io/badge/NI_PXI-000000?style=flat-square&logo=nationalinstruments&logoColor=white)
+![CLD Certified](https://img.shields.io/badge/🏅_Certified_LabVIEW_Developer-FFD200?style=flat-square&logoColor=black)
 
 **Currently levelling up**  
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6F00?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-8A2BE2?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 ---
 
 ### 📊 The receipts
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coomo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coomo&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
-</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coomo&hide_border=true" alt="streak" />
