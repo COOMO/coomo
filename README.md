@@ -1,18 +1,5 @@
 <h3 align="center">Hi, I'm Tom 👋</h3>
 <p align="center">Senior Software Engineer · Taipei 🇹🇼</p>
-<p align="center"><i>10+ years chasing problems down the stack — Qt → LabVIEW → embedded Linux → Azure IoT.</i></p>
-
----
-
-### About
-
-I'm a problem-driven engineer who likes owning things end-to-end. Hand me something that spans a sensor, an embedded box, a cloud pipeline, and a dashboard — I'll quietly get all four working before asking for budget.
-
-- Most recent mission: built an edge-to-cloud industrial IoT platform as the **sole engineer** — NXP i.MX8M SBC up through Azure DPS, IoT Hub, ADX, Grafana.
-- Comfort zone: real-time embedded Linux, PREEMPT_RT, multi-sensor acquisition, X.509 device provisioning, KQL analytics.
-- Currently obsessed with: what CUDA kernels actually do during attention, and why the FLOPs never quite agree with my hand calculation.
-- Long-term goal: write systems I wouldn't be embarrassed to debug at 3 AM.
-
 ---
 
 ### 🧰 Stack
